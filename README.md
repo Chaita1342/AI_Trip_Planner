@@ -16,7 +16,7 @@ An intelligent travel planning assistant that leverages **LangGraph**, **LangCha
 
 ---
 
-# ✨ Overview
+# Overview
 
 Planning a trip often requires switching between multiple websites to find attractions, restaurants, weather forecasts, transportation options, and budget estimates.
 
@@ -24,7 +24,7 @@ Planning a trip often requires switching between multiple websites to find attra
 
 ---
 
-# 🚀 Features
+# Features
 
 ✅ AI-powered trip planning 
 
@@ -48,7 +48,7 @@ Planning a trip often requires switching between multiple websites to find attra
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 <!-- <div align="center"> -->
 
 ```text
@@ -171,7 +171,7 @@ AI-Trip-Planner
 
 ---
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 ## AI Frameworks
 
@@ -179,7 +179,7 @@ AI-Trip-Planner
 - LangGraph
 - Groq LLM
   
-## 🖥️ Frontend
+## Frontend
 
 - Streamlit
 - HTML5
@@ -210,7 +210,7 @@ AI-Trip-Planner
 
 ---
 
-# 📦 Installation
+# Installation
 
 Clone the repository
 
@@ -226,7 +226,7 @@ pip install -r requirements.txt
 
 ---
 
-# 🔑 Environment Variables
+# Environment Variables
 
 Create a `.env` file in the project root and add the following API keys:
 
@@ -301,7 +301,7 @@ Now you can interact with the AI Trip Planner through the Streamlit interface.
 
 ---
 
-# 💡 Example Prompt
+# Example Prompt
 
 ```
 Plan a 5-day trip to New York with a budget of $1500.
@@ -311,7 +311,7 @@ daily weather, and estimated expenses.
 
 ---
 
-# 🔄 Workflow
+# Workflow
 
 ```text
 User Query
@@ -340,7 +340,7 @@ Personalized Travel Plan
 
 ---
 
-# 📡 APIs Used
+# APIs Used
 
 | API / Service | Purpose |
 |----------------|---------|
@@ -356,7 +356,7 @@ Personalized Travel Plan
 
 ---
 
-# 🛣️ Future Enhancements
+# Future Enhancements
 
 - Flight recommendation system
 - Hotel booking integration
